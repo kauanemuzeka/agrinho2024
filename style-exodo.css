@@ -10,6 +10,10 @@ h1{
     font-family: var(--fonte-principal);
     font-size: 40px;
     text-align: center;
+    border: 30px solid transparent;
+font-size: 40px;
+background-color: rgb(150, 215, 255);
+border-image: url("./132d0b11f96dcffaa700966900312a52.jpg") 150 round;
 }
 h2{
     font-family: var(--fonte-principal);
